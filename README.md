@@ -1,2 +1,2 @@
 # geek-mini
-geek mini of the Node.js version.
+A Node.js version of mini geek.
